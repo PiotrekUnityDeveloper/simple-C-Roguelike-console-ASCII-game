@@ -17,5 +17,7 @@ Stuff implemented:
 anyways, thanks and enjoy!
 
 
-LICENSE:
-free2use no license you nerds
+
+### LICENSE:
+
+[DONT ASK LICENSE](https://piotrekunitydeveloper.github.io/dontask/)
