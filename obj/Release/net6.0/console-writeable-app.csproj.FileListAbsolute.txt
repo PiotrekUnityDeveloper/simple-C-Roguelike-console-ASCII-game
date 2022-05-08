@@ -1,0 +1,15 @@
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\bin\Release\net6.0\console-writeable-app.exe
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\bin\Release\net6.0\console-writeable-app.deps.json
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\bin\Release\net6.0\console-writeable-app.runtimeconfig.json
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\bin\Release\net6.0\console-writeable-app.dll
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\bin\Release\net6.0\ref\console-writeable-app.dll
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\bin\Release\net6.0\console-writeable-app.pdb
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.csproj.AssemblyReference.cache
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.AssemblyInfoInputs.cache
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.AssemblyInfo.cs
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.csproj.CoreCompileInputs.cache
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.dll
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\ref\console-writeable-app.dll
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.pdb
+C:\Users\piotreczkoland14\source\repos\console-writeable-app\console-writeable-app\obj\Release\net6.0\console-writeable-app.genruntimeconfig.cache
